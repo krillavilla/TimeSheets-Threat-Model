@@ -86,3 +86,8 @@ _(Optional)_ Stand Out Tasks:
 1. Examine the architecture diagram from section one. Create an architecture diagram that shows a secure system. Please provide an image of your proposed architecture.
  
 2. What additional steps would you recommend to prevent the attack identified in section one as well as preventing future issues?
+
+
+### Submission
+
+Examine the final report. _TimeSheets Threat Report.pdf_ is a **.pdf** document.
