@@ -75,7 +75,7 @@ Rank each of the four identified encryption issues in order of severity:
 
 ### Section 4: Mitigation Plan
 
-Suggest remediations for each of the vulnerabilities. Additionally, you must justify your mitigation plan. It is not sufficient to just specify a fix, you must explain why your recommended course of action will work.
+Suggest remediation's for each of the vulnerabilities. Additionally, you must justify your mitigation plan. It is not sufficient to just specify a fix, you must explain why your recommended course of action will work.
 
 To finish out the section, come up with recommendations for the audit team (i.e. what steps can the audit team take to ensure this issue doesn’t recur).
 
